@@ -5,6 +5,7 @@ This project is based on PERN stack.
 install the node module dependencies after cloning the repository.
 `````````
 npm install
+``````````
 
 run the command
 ```````````
