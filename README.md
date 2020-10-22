@@ -6,3 +6,6 @@ install the node module dependencies after cloning the repository.
 `````````
 npm install
 
+run the command
+```````````
+npm start
