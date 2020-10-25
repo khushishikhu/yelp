@@ -8,6 +8,9 @@ install the node module dependencies after cloning the repository.
 npm install
 ``````````
 
-run the command for backend
+####run the command for backend
+move to the server directory by running the command
+```````````
+cd server
 ```````````
 npm start
